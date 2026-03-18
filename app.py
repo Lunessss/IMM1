@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('So tell me, What's your favorite color? My favorite color is rainbow,'  
+st.write('So tell me, What is your favorite color? My favorite color is rainbow,'  
          ' purple, aquamarine, like and rainbow like all colors thar have sparkles on it.' 
          ' Mckenna Grace.'
         
